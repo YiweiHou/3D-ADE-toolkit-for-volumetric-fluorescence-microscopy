@@ -10,6 +10,8 @@ Ada3D can be used to deconvolve diffraction-limited or super-resolution 3D fluor
 
 SQUIRREL3D can be used to evaluate the fidelity of the deconvolution results, and can also be used to evaluate the quality of 3D physical super-resolution and credibility of 3D deep-learning super-resolution, under the premise that a low-resolution reference is given.
 
+It is recommended to watch Supplementary Video 1 or the User Manual provided in the manuscript to know the usage of this software.
+
 <p align="center">
 <img src="./Icon/1.png" width="100%">
 </p>
