@@ -36,3 +36,14 @@ A detailed UserManual is attached with the project. For any questions in usage, 
 
 # ⚡Running speed
 Under the MATLAB testing environment, to perform Ada3D deconvolution on a 1024×1024×40 3D-stack, for 40 iterations, it takes ~3 minutes for pure CPU computation (Intel i7-12700, 2.10 GHz), and takes only ~1 minute with GPU acceleration (Nvidia RTX 4080). To evaluate the quality of a 1024×1024×40 3D-stack with a low-resolution reference with the same size, it takes ~20 seconds for pure CPU computation (Intel i7-12700, 2.10 GHz), and takes only ~6 seconds with GPU acceleration (Nvidia RTX 4080).
+
+# Acknowledgement
+We refer to the code&idea provided in the following publication&repository: 
+
+[1] FrameLab in: https://github.com/nhenscheid/FrameLab/tree/dcc96cb950d15d9d4c40e4d2c451d5c9ff737ad8/matlab/classes/+Transforms/@FrameletSystem
+
+[2] Hansen P C, Nagy J G, O'leary D P. Deblurring images: matrices, spectra, and filtering[M]. Society for Industrial and Applied Mathematics, 2006.
+
+[3] Culley, S. et al. Quantitative mapping and minimization of super-resolution optical imaging artifacts. Nature Methods 15, 263-266, 2018.
+
+[4] Descloux, A., Grußmayer, K.S. & Radenovic, A. Parameter-free image resolution estimation based on decorrelation analysis. Nature Methods 16, 918-924, 2019.
