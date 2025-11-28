@@ -24,9 +24,9 @@ We tested our software in Windows 10&11 environments.
 
 The package does not need additional installation steps. 
 
-For biology or microscopy users: To run the .jar and .exe files, the MATLAB software is not necessary but one should download and install the MATLAB runtime version 2022b from: https://ww2.mathworks.cn/products/compiler/matlab-runtime.html (official link, free), or in: https://doi.org/10.6084/m9.figshare.30730169.v1 (we pre-uploaded).After the installation, the ADE3D software can be readily used.
+For biology or microscopy users: To run the .jar and .exe files, the MATLAB software is not necessary but one should download and install the MATLAB runtime version 2022b (9.13) from: https://www.mathworks.com/products/compiler/matlab-runtime.html (official link, free), or in: https://doi.org/10.6084/m9.figshare.30730169.v1 (we pre-uploaded). After the installation, the ADE3D software can be readily used.
 
-For developers: To run the .m GUI, users need to install MATLAB at any version (this code is written based on MATLAB 2022b, different MATLAB version may have different function rules that influence the functioning). Open the .m file, then click run to activate the software.
+For developers: To run the .m GUI, users need to install MATLAB at any version (this code is written based on MATLAB 2022b). Open the .m file, then click run to activate the software.
 
 # ✨ Demo
 Some test data and parameters are attached with the project for demonstration: https://doi.org/10.6084/m9.figshare.30730169.v1
